@@ -50,3 +50,4 @@ Esse projeto foi uma excelente oportunidade para reforçar conhecimentos em lóg
 ## :memo: Licença
 
 Este projeto está sob a licença MIT.
+<p align="right">Feito com ♥ by Amanda</p>
