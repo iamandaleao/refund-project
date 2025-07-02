@@ -160,7 +160,7 @@ expenseList. addEventListener("click", function (event) {
 if (event.target.classList.contains("remove-icon")) {
 
  // Obtem a li pai do elemento clicado.
- const item = EventTarget.closest("expense")
+ const item = event.target.closest("li")
  
  // Remove item da lista
  item.remove()
